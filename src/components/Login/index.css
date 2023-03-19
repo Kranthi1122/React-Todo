@@ -1,0 +1,44 @@
+.main-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(black, yellow);
+}
+.login {
+  border: 1px solid greenyellow;
+  min-width: 20vw;
+  min-height: 30vh;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: linear-gradient(to left, lightpink, lightblue);
+  border-radius: 10px;
+}
+label {
+  font-family: 'Roboto';
+  color: black;
+  font-size: small;
+}
+input {
+  width: 200px;
+  height: 25px;
+  background-color: white;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+h1 {
+  font-family: 'Roboto';
+  color: black;
+}
+.buttons {
+  margin-left: 70px;
+  background-image: linear-gradient(black, yellow);
+  height: 30px;
+  border: 0px;
+  border-radius: 5px;
+  width: 70px;
+  margin-top: 20px;
+  color: aliceblue;
+}

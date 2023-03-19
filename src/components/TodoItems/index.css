@@ -1,0 +1,15 @@
+.each {
+  display: flex;
+  color: aliceblue;
+  margin: 15px;
+}
+.para {
+  color: black;
+  margin-left: 10px;
+  font-size: 15px;
+  font-weight: 500;
+}
+.delete {
+  color: black;
+  font-size: 25px;
+}
